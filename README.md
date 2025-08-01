@@ -74,3 +74,7 @@ The dataset is synthetically generated using `Faker` to simulate realistic libra
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
+
+## You can access our live project
+https://guvi-project-1.streamlit.app/
